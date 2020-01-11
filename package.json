@@ -4,7 +4,7 @@
   "description": "Test app to manage markdown files for gatsby",
   "main": "src/index.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "test": "tap"
   },
   "author": "",
   "license": "ISC",
@@ -12,6 +12,7 @@
     "blessed": "^0.1.81"
   },
   "devDependencies": {
-    "eslint": "^6.8.0"
+    "eslint": "^6.8.0",
+    "tap": "^14.10.5"
   }
 }

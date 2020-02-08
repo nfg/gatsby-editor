@@ -1,6 +1,13 @@
 EDITOR
 ======
 
+This is just me playing around with a CLI tool to manage Gatsby posts.
+
+Feature goals:
+
+* Manage drafts, metadata
+* Nifty front end
+
 ### Dependencies
 
 * [blessed](https://github.com/chjj/blessed)

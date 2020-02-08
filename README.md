@@ -8,6 +8,14 @@ Feature goals:
 * Manage drafts, metadata
 * Nifty front end
 
+Notes to self:
+
+`npx eslint .` to run eslint on all our code.
+
+`npm run test`
+
+`node test/Util.js`
+
 ### Dependencies
 
 * [blessed](https://github.com/chjj/blessed)
